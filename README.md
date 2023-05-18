@@ -1,2 +1,2 @@
 # WizToo
- A simple 2D  game ( casual ) on unity
+ A simple 2D  game ( casual, Android ) on unity
